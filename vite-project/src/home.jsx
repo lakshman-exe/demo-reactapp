@@ -10,14 +10,6 @@ const HomePage = () => {
         Empowering students to learn efficiently with personalized study plans
         and AI evaluation.
       </p>
-      <div className="flex justify-center gap-4">
-        <button className="bg-blue-500 text-white px-6 py-2 rounded-xl shadow-md">
-          Get Started
-        </button>
-        <button className="bg-white border-2 border-blue-500 text-blue-500 px-6 py-2 rounded-xl shadow-md">
-          Learn More
-        </button>
-      </div>
     </div>
   );
 };
